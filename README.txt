@@ -1,0 +1,1 @@
+IMPORTANT: Executable and PCK file must be in the same folder for game to launch.
